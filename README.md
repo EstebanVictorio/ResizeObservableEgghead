@@ -1,2 +1,0 @@
-# ResizeObservableEgghead
-Created with CodeSandbox
